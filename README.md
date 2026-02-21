@@ -4,7 +4,7 @@
 🚀 AI-powered branding automation platform.
 
 ## 🔥 Live Demo
-👉 [Click Here to View Project](PASTE_YOUR_BASE44_LINK_HERE)
+👉 https://delectable-brand-craft-ai.base44.app
 
 ## 🛠 Tech Stack
 - FastAPI
@@ -19,3 +19,5 @@
 - Content Generator
 - Sentiment Analysis
 - Branding Assistant Chatbot
+
+
